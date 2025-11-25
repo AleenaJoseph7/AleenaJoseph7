@@ -59,16 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleenajoseph7&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenajoseph7&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
-</p>
-
----
 
 ### 🏆 Achievements  
 <p align="center">
