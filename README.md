@@ -41,11 +41,4 @@
 
 ---
 
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aleenajoseph7&theme=onedark&margin-w=15&margin-h=15" />
-</p>
-
----
-
 <h4 align="center">✨ “Code. Create. Innovate.” ✨</h4>
