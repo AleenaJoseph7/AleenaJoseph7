@@ -16,7 +16,7 @@
   👉 **https://aleenajoseph7.github.io/Aleena-Portfolio/**  
 - 📫 Reach me at **[aleenajoseph18122002@gmail.com](mailto:aleenajoseph18122002@gmail.com)**  
 - 📄 Check out my resume →  
-  👉 **https://drive.google.com/file/d/17i5sJfPNkcjzE9SK-cPD0sS-9rWXkbE1/view?usp=drivesdk](https://drive.google.com/file/d/1DD8anvEZG3OfSNRi5U1Bb6vmCurN2SZr/view?usp=drive_link**
+  👉 **https://drive.google.com/file/d/1DD8anvEZG3OfSNRi5U1Bb6vmCurN2SZr/view?usp=drive_link**
 ---
 
 ### 🤝 Connect with Me
