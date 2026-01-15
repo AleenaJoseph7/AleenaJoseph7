@@ -22,7 +22,6 @@
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aleena-joseph12) &nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aleenajoseph2001) &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:aleenajosephkaduthanathil@gmail.com)
 
 ---
 
