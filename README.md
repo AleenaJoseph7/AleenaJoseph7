@@ -14,7 +14,7 @@
 - 🎯 Focused on writing clean, maintainable, and efficient code  
 - 🌐 Check my **Portfolio Website** →  
   👉 **https://aleenajoseph7.github.io/Aleena-Portfolio/**  
-- 📫 Reach me at **[aleenajoseph18122002@gmail.com](mailto:aleenajoseph18122002@gmail.com)**  
+- 📫 Reach me at **[aleenajosephkaduthanathil@gmail.com](mailto:aleenajosephkaduthanathil@gmail.com)**  
 - 📄 Check out my resume →  
   👉 **https://drive.google.com/file/d/1DD8anvEZG3OfSNRi5U1Bb6vmCurN2SZr/view?usp=drive_link**
 ---
@@ -22,7 +22,7 @@
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aleena-joseph12) &nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aleenajoseph2001) &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:aleenajoseph18122002@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:aleenajosephkaduthanathil@gmail.com)
 
 ---
 
